@@ -1,0 +1,3 @@
+[submodule "sound"]
+	path = sound
+	url = git@github.com:nathankoch/ice-burg-sound.git
